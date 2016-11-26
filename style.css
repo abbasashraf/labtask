@@ -1,0 +1,17 @@
+body{
+    background-color: azure;
+}
+
+.btn {
+
+    background-color: aquamarine;
+    border: 2px solid aqua;
+    border-radius: 05px;
+    width: 100px;
+    height: 50px;
+}
+#input{
+    height: 44px;
+     border-radius: 05px;
+
+}
